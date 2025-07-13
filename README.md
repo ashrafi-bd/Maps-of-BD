@@ -30,7 +30,7 @@ The goal of this project is to **generate high-quality, publication-ready maps**
 
 ## 📍 Output Example
 
-![Dhaka Map Output](output/dhaka_map.png)
+![Dhaka Map Output](output/dhaka_latlong.png)
 
 ---
 
